@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1546254256 source:c:\users\user\desktop\e2093193_hw3\main.cpp
+	<iostream>
+	"treenode.h"
+	"bstree.h"
+
+1546067867 c:\users\user\desktop\e2093193_hw3\treenode.h
+
+1546254278 c:\users\user\desktop\e2093193_hw3\bstree.h
+	<iostream>
+	<cstdlib>
+	"treenode.h"
+
